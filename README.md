@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vychau-2k1
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Mechatronics Engineering
+- 🌱 I’m currently a Embedded System Engineering
 
 <!---
 vychau-2k1/vychau-2k1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
